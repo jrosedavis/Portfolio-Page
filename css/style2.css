@@ -375,3 +375,25 @@
     width: calc((100% - 2 * 6rem) / 3);
   } */
   
+
+
+      /*Cards*/
+
+    #section-plans .section-plans{
+        flex-direction: row;
+    }
+
+    #section-plans .u-center-text{
+        width: 600px;
+        height: 400px;
+        padding-left: 60px;
+    }
+
+    #section-plans .heading-secondary p{
+        text-align: left;
+    }
+
+    #section-plans .card{
+        text-align: left;
+    }
+}
