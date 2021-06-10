@@ -212,7 +212,7 @@ p {
 
 /*Section 1: Hero*/
 #one-hero{
-    background-image: url(../images/geeks-2894621_960_720.jpg);
+    background-image: url(./images/geeks-2894621_960_720.jpg);
     background-size: cover;
     background-position: top-center;
     position: relative;
