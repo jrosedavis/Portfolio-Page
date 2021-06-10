@@ -535,7 +535,7 @@ p {
     text-align: center;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 100px 20px;
+    padding: 60px 15px;
 }
 
 #about .col-left{
@@ -552,11 +552,11 @@ p {
     font-weight: 500;
     line-height: 55px;
     letter-spacing: 2px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 #about .col-right p{
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 
 #about .col-right .cta{
@@ -571,7 +571,7 @@ p {
     transition: .3s ease bakground-color;
     border-radius: 15px;
     transition-property: background-color, color;
-    margin-bottom: 50px;
+    margin-bottom: 45px;
     font-weight: 900;
 }
 
