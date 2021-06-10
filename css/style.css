@@ -212,7 +212,7 @@ p {
 
 /*Section 1: Hero*/
 #one-hero{
-    background-image: url(/Images/Geeks-2894621_960_720.jpg);
+    background-image: url(../Images/Geeks-2894621_960_720.jpg);
     background-size: cover;
     background-position: top-center;
     position: relative;
@@ -700,7 +700,7 @@ button[type=submit]:hover {
 
 /*Section 6: Footer*/
 #footer{
-    background-image: url(/Images/pexels-fwstudio-168438.jpg);
+    background-image: url(../Images/pexels-fwstudio-168438.jpg);
 }
 
 #footer .footer{
