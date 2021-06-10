@@ -824,8 +824,8 @@ button[type=submit]:hover {
     }
 
     /*Experience*/
-column
-    #section-plans .container .card-header{
+
+    #section-plans .card-header{
         flex-direction: row;
     }
 
