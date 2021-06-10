@@ -825,9 +825,14 @@ button[type=submit]:hover {
 
     /*Experience*/
 
-    #section-plans .card-header{
+    #section-plans .card-header .h2{
         flex-direction: row;
     }
+
+    #section-plans .card-header .p{
+        flex-direction: row;
+    }
+
 
     #section-plans .column{
         flex-direction: row;
