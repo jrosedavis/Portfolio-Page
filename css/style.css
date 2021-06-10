@@ -823,6 +823,16 @@ button[type=submit]:hover {
         height: 100%;
     }
 
+    /*Experience*/
+column
+    #section-plans .container .card-header{
+        flex-direction: row;
+    }
+
+    #section-plans .column{
+        flex-direction: row;
+    }
+
     /*About*/
 
     #about .about{
@@ -895,6 +905,7 @@ button[type=submit]:hover {
         text-align: left;
         padding-left: 20px;
     }
+
 
 /*End Media Query */
 
