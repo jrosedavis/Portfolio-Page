@@ -825,14 +825,13 @@ button[type=submit]:hover {
 
     /*Experience*/
 
-    #section plans .card-header h2{
+    #container .card-header h2{
         text-align: left;
     }
 
-    #section-plans .card-header p{
+    #container .card-header p{
         text-align: left;
     }
-
 
     #section-plans .column{
         flex-direction: row;
